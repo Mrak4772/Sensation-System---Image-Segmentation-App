@@ -24,7 +24,7 @@ Sensation System is an Android application that captures images using the device
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/sensation-system.git
+   git clone https://github.com/Mrak4772/sensation-system.git
    ```
 2. Open the project in Android Studio.
 3. Place the TensorFlow Lite model (`segmentation_model.tflite`) in the `assets` folder.
@@ -64,8 +64,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or suggestions, feel free to contact me:
-- **Email**: your_email@example.com
-- **GitHub**: [your_username](https://github.com/your_username)
+- **Email**: mrak4772@gmail.com
+- **GitHub**: [Mrak4772](https://github.com/your_username)
 
 ---
 
